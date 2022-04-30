@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkiParametreliSubstringAlternatifi", "IkiParametreliSubstringAlternatifi\IkiParametreliSubstringAlternatifi.csproj", "{3763132E-CCD0-41D2-B666-39F353112BA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3763132E-CCD0-41D2-B666-39F353112BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3763132E-CCD0-41D2-B666-39F353112BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3763132E-CCD0-41D2-B666-39F353112BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3763132E-CCD0-41D2-B666-39F353112BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50190081-4C72-4E91-B5A6-2205F21A226A}
+	EndGlobalSection
+EndGlobal
